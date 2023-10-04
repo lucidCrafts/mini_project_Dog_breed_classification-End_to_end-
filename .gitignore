@@ -1,0 +1,13 @@
+# Environments
+#git .logs
+#.notebooks/
+#.artifacts
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+stanford_data/

@@ -28,24 +28,25 @@ cd your_project_name
 
 ```bash
 pip install -r requirements.txt
-Run the main script:
 ```
+Run the main script:
+
 
 ```bash
 python main.py
 ```
 
-# Dataset
+Dataset
 
 
-# Functionality
+Functionality
 
 
-# Contributing
+Contributing
 
 
-# License
+License
 
 
-# Acknowledgements
+Acknowledgements
 
