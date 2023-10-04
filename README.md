@@ -4,7 +4,7 @@ Brief description of what the project does.
 
 ## Prerequisites
 
-1. Make sure you have Python and Conda installed. This project was developed using Python 3.x.
+1. Make sure you have Python and Conda installed. This project was developed using Python 3.9.13
 
 ## Setting Up the Environment
 
