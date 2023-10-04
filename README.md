@@ -22,7 +22,7 @@ Clone the repository:
 
 ```bash 
 git clone https://github.com/lucidCrafts/mini_project_Dog_breed_classification.git
-cd your_project_name
+cd /mini_project_Dog_breed_classification
 ```
 # Install the required packages:
 
