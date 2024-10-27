@@ -1,6 +1,6 @@
 # mini_project - Dog breed classification 
 
-Brief description of what the project does.
+This project helps identify the dog's breed when a picture is uploaded.
 
 ## Prerequisites
 
